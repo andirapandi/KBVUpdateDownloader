@@ -18,7 +18,7 @@ The highlight is that file time information is also extracted from the website (
 
 Requires specific format of files like
 
-'''
+```
 <img src="/icons/layout.gif" alt="[   ]"> <a href="KBV_ITA_VGEX_Anforderungskatalog_ICD-10.pdf">KBV_ITA_VGEX_Anforderungskatalog_ICD-10.pdf</a>             2022-02-15
  16:11  1.2M  
-'''
+```
